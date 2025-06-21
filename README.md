@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/Arundhuti2000/Leet_Code/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arundhuti2000/Leet_Code/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
