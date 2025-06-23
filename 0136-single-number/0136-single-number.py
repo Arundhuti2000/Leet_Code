@@ -1,6 +1,6 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        seen=set(nums)
-        n=len(nums)
-        return 2*(sum(seen))-sum(nums)
-        return 0
+        final=0
+        for num in nums:
+            final^=num
+        return final
