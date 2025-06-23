@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Arundhuti2000/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Arundhuti2000/Leet_Code/tree/master/0454-4sum-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arundhuti2000/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Arundhuti2000/Leet_Code/tree/master/0657-robot-return-to-origin) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
