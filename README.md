@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Arundhuti2000/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Arundhuti2000/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Arundhuti2000/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Arundhuti2000/Leet_Code/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arundhuti2000/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
