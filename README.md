@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arundhuti2000/Leet_Code/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
 ## Backtracking
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arundhuti2000/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
