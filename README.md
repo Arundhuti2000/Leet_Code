@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
