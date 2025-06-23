@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Arundhuti2000/Leet_Code/tree/master/0238-product-of-array-except-self) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arundhuti2000/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arundhuti2000/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
