@@ -7,10 +7,10 @@ class Solution:
         original_char = board[i][j]
         board[i][j] = '#'
         found_word = (
-            self.backtrack(board, word, i + 1, j, index + 1, m, n) or # Down
-            self.backtrack(board, word, i - 1, j, index + 1, m, n) or # Up
-            self.backtrack(board, word, i, j + 1, index + 1, m, n) or # Right
-            self.backtrack(board, word, i, j - 1, index + 1, m, n)    # Left
+            self.backtrack(board, word, i + 1, j, index + 1, m, n) or 
+            self.backtrack(board, word, i - 1, j, index + 1, m, n) or 
+            self.backtrack(board, word, i, j + 1, index + 1, m, n) or 
+            self.backtrack(board, word, i, j - 1, index + 1, m, n)    
         )
         board[i][j] = original_char
         return found_word
