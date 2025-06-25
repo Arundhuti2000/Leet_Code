@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/Arundhuti2000/Leet_Code/tree/master/0657-robot-return-to-origin) |
 ## Sliding Window
 |  |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
