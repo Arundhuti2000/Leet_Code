@@ -1,10 +1,6 @@
 class Solution:
     def is_palindrome(self, s:str)-> bool:
-        for i in range(0,len(s)):
-            if s[-i-1] != s[i]:
-                print(s[-i],s[i])
-                return False
-        return True
+        return s == s[::-1]
     def backtrack(self, ans, cur, s, index):
         if index == len(s):
             ans.append(cur[:])
