@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Arundhuti2000/Leet_Code/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Arundhuti2000/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0657-robot-return-to-origin](https://github.com/Arundhuti2000/Leet_Code/tree/master/0657-robot-return-to-origin) |
 ## Sliding Window
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Arundhuti2000/Leet_Code/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
