@@ -158,8 +158,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0101-symmetric-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Arundhuti2000/Leet_Code/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
