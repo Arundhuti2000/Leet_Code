@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arundhuti2000/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Arundhuti2000/Leet_Code/tree/master/0454-4sum-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Arundhuti2000/Leet_Code/tree/master/0454-4sum-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arundhuti2000/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
+| [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Quickselect
 |  |
 | ------- |
