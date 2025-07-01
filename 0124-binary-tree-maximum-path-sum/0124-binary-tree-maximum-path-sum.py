@@ -11,7 +11,7 @@ class Solution:
         if root is None:
             return 0
         
-        left = self.hasMaxPathSum(root.left) # comparing with 0 for negative value comparision
+        left = self.hasMaxPathSum(root.left) 
         right = self.hasMaxPathSum(root.right)
         maxSide=max(root.val, root.val+max(left,right))
         maxCurrent= max(maxSide, root.val+left+right)
