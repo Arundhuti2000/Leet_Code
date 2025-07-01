@@ -5,8 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.max_overall_sum = float('-inf')
+    max_overall_sum = float('-inf')
     def hasMaxPathSum(self, root: Optional[TreeNode])-> int:
         if root is None:
             return 0
