@@ -2,12 +2,13 @@ class Solution:
 
     def possibleStringCount(self, word: str) -> int:
         i=0
+        n=len(word)
         count=1
-        if len(word)== 0:
+        if n== 0:
             return 0
-        while i < len(word):
+        while i < n:
             j=i
-            while j<len(word) and word[j]==word[i]:
+            while j<n and word[j]==word[i]:
                 j+=1
             blocklength=j-i
             if blocklength>1:
