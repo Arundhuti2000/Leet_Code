@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arundhuti2000/Leet_Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Arundhuti2000/Leet_Code/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arundhuti2000/Leet_Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arundhuti2000/Leet_Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
