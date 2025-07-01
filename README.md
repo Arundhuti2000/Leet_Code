@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Arundhuti2000/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/Arundhuti2000/Leet_Code/tree/master/0657-robot-return-to-origin) |
+| [3617-find-the-original-typed-string-i](https://github.com/Arundhuti2000/Leet_Code/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
