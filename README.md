@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Arundhuti2000/Leet_Code/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arundhuti2000/Leet_Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Arundhuti2000/Leet_Code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
