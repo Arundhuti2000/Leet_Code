@@ -10,7 +10,7 @@ class Solution:
             if char in bracket_map.values():
                 stack.append(char)
             elif char in bracket_map:
-                if not stack:
+                if len(stack)==0:
                     return False
                 top=stack.pop()
                 if top!=bracket_map[char]:
