@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arundhuti2000/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arundhuti2000/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arundhuti2000/Leet_Code/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arundhuti2000/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Arundhuti2000/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Arundhuti2000/Leet_Code/tree/master/0198-house-robber) |
