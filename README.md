@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arundhuti2000/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Arundhuti2000/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
 ## Math
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Arundhuti2000/Leet_Code/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Arundhuti2000/Leet_Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arundhuti2000/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arundhuti2000/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arundhuti2000/Leet_Code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arundhuti2000/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arundhuti2000/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Arundhuti2000/Leet_Code/tree/master/0155-min-stack) |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arundhuti2000/Leet_Code/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
