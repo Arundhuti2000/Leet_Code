@@ -1,9 +1,12 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        seen = {}
-        for i in range(len(numbers)):
-            compliment = target - numbers[i]
-            if (compliment in seen):
-                return seen.get(compliment)+1, i+1
-            else: 
-                seen[numbers[i]] = i
+        left = 0 
+        right = len(numbers) - 1
+        while left<right:
+            sum = numbers[left] + numbers[right]
+            if (sum ==target):
+                return left+1, right+1
+            elif sum<target: 
+                left+=1
+            else:
+                right-=1
