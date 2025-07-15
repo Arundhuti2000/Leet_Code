@@ -2,7 +2,6 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         ans=set()
-        res=[]
         if len(nums) < 3:
             return []
         
