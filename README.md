@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Arundhuti2000/Leet_Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arundhuti2000/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arundhuti2000/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
