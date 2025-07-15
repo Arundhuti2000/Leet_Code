@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Arundhuti2000/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arundhuti2000/Leet_Code/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arundhuti2000/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Arundhuti2000/Leet_Code/tree/master/0125-valid-palindrome) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arundhuti2000/Leet_Code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arundhuti2000/Leet_Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
