@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arundhuti2000/Leet_Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arundhuti2000/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arundhuti2000/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Arundhuti2000/Leet_Code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Arundhuti2000/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arundhuti2000/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arundhuti2000/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arundhuti2000/Leet_Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Stack
 |  |
