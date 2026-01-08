@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Arundhuti2000/Leet_Code/tree/master/0454-4sum-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
+| [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Arundhuti2000/Leet_Code/tree/master/0454-4sum-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
+| [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Arundhuti2000/Leet_Code/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Arundhuti2000/Leet_Code/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Arundhuti2000/Leet_Code/tree/master/0657-robot-return-to-origin) |
+| [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Enumeration
 |  |
 | ------- |
