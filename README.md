@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Arundhuti2000/Leet_Code/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Arundhuti2000/Leet_Code/tree/master/0454-4sum-ii) |
+| [0485-max-consecutive-ones](https://github.com/Arundhuti2000/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 | [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
