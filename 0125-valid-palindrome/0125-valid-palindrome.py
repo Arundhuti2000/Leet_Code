@@ -1,14 +1,11 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        string = ""
-        for char in s:
-            if (char.isalpha() or char.isnumeric()):
-                string+=char
-        newstring=string.lower()
+        s=s.lower()
+        s = ''.join(filter(str.isalnum, s))
         left=0
-        right= len(newstring)-1
+        right= len(s)-1
         while left <right:
-            if newstring[left]== newstring[right]:
+            if s[left]== s[right]:
                 left+=1
                 right-=1
             else:
