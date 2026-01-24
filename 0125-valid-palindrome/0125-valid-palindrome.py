@@ -1,11 +1,16 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s=s.lower()
-        s = ''.join(filter(str.isalnum, s))
-        
-        print(s)
-        for i in range(0,len(s)):
-            if s[-i-1] != s[i]:
-                print(s[-i],s[i])
+        string = ""
+        for char in s:
+            if (char.isalpha() or char.isnumeric()):
+                string+=char
+        newstring=string.lower()
+        left=0
+        right= len(newstring)-1
+        while left <right:
+            if newstring[left]== newstring[right]:
+                left+=1
+                right-=1
+            else:
                 return False
         return True
