@@ -7,4 +7,4 @@ class Solution:
                 min_price= price
             else:
                 max_price = max(max_price, price - min_price)
-        return max_price
+        return max_price      
