@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Arundhuti2000/Leet_Code/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Arundhuti2000/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0704-binary-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0704-binary-search) |
 | [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Arundhuti2000/Leet_Code/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arundhuti2000/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arundhuti2000/Leet_Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0704-binary-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
