@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Arundhuti2000/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Arundhuti2000/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/Arundhuti2000/Leet_Code/tree/master/0941-valid-mountain-array) |
 | [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arundhuti2000/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arundhuti2000/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/Arundhuti2000/Leet_Code/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arundhuti2000/Leet_Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arundhuti2000/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Arundhuti2000/Leet_Code/tree/master/0881-boats-to-save-people) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -340,4 +343,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Arundhuti2000/Leet_Code/tree/master/0135-candy) |
+| [0881-boats-to-save-people](https://github.com/Arundhuti2000/Leet_Code/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
