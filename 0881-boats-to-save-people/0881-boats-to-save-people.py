@@ -7,12 +7,11 @@ class Solution:
         boat=0
         while light<=heavy:
             if people[light]+people[heavy]<=limit:
-                boat+=1
                 light+=1
                 heavy-=1
             else:
-                boat+=1
                 heavy-=1
+            boat+=1
         return boat
 
 
