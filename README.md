@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Arundhuti2000/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0704-binary-search) |
+| [0941-valid-mountain-array](https://github.com/Arundhuti2000/Leet_Code/tree/master/0941-valid-mountain-array) |
 | [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
 |  |
