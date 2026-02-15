@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arundhuti2000/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arundhuti2000/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arundhuti2000/Leet_Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arundhuti2000/Leet_Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Arundhuti2000/Leet_Code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Arundhuti2000/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arundhuti2000/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arundhuti2000/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arundhuti2000/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Arundhuti2000/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/Arundhuti2000/Leet_Code/tree/master/0881-boats-to-save-people) |
 ## Math
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arundhuti2000/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Arundhuti2000/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arundhuti2000/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Arundhuti2000/Leet_Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Arundhuti2000/Leet_Code/tree/master/0204-count-primes) |
 ## Matrix
 |  |
