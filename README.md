@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Arundhuti2000/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arundhuti2000/Leet_Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Arundhuti2000/Leet_Code/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Arundhuti2000/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Arundhuti2000/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/Arundhuti2000/Leet_Code/tree/master/0941-valid-mountain-array) |
 | [2043-simple-bank-system](https://github.com/Arundhuti2000/Leet_Code/tree/master/2043-simple-bank-system) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Arundhuti2000/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arundhuti2000/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Arundhuti2000/Leet_Code/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Arundhuti2000/Leet_Code/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arundhuti2000/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Arundhuti2000/Leet_Code/tree/master/0739-daily-temperatures) |
 ## Union Find
 |  |
 | ------- |
